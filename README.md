@@ -1,7 +1,7 @@
 ##  Hi!! My name is Michael Reis!!
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Futuro desenvolvedor Back-end e Analista de Dados.
-- 📩 Entre em contato comigo no email: michaelreisrodrigues@gmail.com
+
 
 ## Tecnologia que uso no dia a dia!!
 
@@ -20,11 +20,12 @@
    ## CONTATOS.
 
 
+- 📩 Entre em contato comigo no email: michaelreisrodrigues@gmail.com
+- Número: 24992018093
 
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omichaelreis/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://mail.google.com/mail/u/2/#inbox)   
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-reis-rodrigues-516175269/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omichaelreis/) 
 
 
 
