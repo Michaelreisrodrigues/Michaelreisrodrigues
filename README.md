@@ -1,6 +1,6 @@
 ##  Hi!! My name is Michael Reis!!
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Analista de Dados
+- 💻 Analista de Dados.
 - 💻 Futuro Desenvolvedor Back-end.
 
 
