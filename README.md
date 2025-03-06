@@ -2,7 +2,6 @@
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Analista de Dados
 - 💻 Futuro Desenvolvedor Back-end.
-- 👷‍♂️ téc. segurança do trabalho.
 
 
 ## Tecnologia que uso no dia a dia!!
