@@ -22,7 +22,7 @@
 
 
 - 📩 Entre em contato comigo no email: michaelreisrodrigues@gmail.com
-- Número: 24992018093
+
 
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-reis-rodrigues-516175269/)
