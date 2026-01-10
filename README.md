@@ -1,7 +1,6 @@
 ##  Hi!! My name is Michael Reis!!
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Analista de Dados.
-- 💻 Futuro Desenvolvedor Back-end.
+- 👨‍💻 Data Analyst 
+- 💻 Análise e Desenvolvimento de Sistemas.
 
 
 ## Tecnologia que uso no dia a dia!!
@@ -38,7 +37,6 @@
   [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 )](https://www.udemy.com/course/banco-de-dados-oracle-completo-sqlplsqlmodelagem-de-dados/?couponCode=2021PM25)
 
-## Looker Studio:  https://www.youtube.com/watch?v=7oEZpcGrzZY&list=PLWkWx5Q7XXxmxiUK4pneMUqVYtBXG5b9t
   
 
 
